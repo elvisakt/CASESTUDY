@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 import calendar
 import random
 
+# File with all the required functions to use in this exercice.
 def morn_aft(time) -> str:
     """
     Function to determine wether a time correspond to Morning or Afternoon
