@@ -1,0 +1,6 @@
+column,data type,description
+type,character,Type of action performed by the Wooclap user identified by participant_id
+event_id,character,Unique ID of the Wooclap event that includes the question identified by object_id
+participant_id,character,Unique ID of a Wooclap participant.
+created_at,character or integer,"Timestamp of the action, the timezone is UTC. Its format varies according to the database, but the information always includes year, month, day, hour, minutes, seconds"
+object_id,character,"When type = ‘question-answer’, it is the unique ID of the question that got an answer. The question belongs to the event identified by event_id."
