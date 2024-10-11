@@ -1,0 +1,6 @@
+# ignorer les fichiers .pyc
+*.pyc
+# ignorer les autres repertoires
+*.venv/
+*.ipynb_checkpoints/
+*__pycache__/
