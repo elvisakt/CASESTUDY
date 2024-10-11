@@ -29,7 +29,7 @@ In order to safely launch the project, follow these next steps:
 - launch python scripts : 'python3 barplot.py' for example.
 
 ## COMMENTS
-Although it was auhtorized, my usage of chatGPT during this test was really limited to case where I needed more efficiency with producing the code. Therefore, I can certified that more that 95% of the code produced is from my self python and programming skills.
+Although it was auhtorized, my usage of chatGPT during this test was really limited to case where I needed more efficiency with producing the code. Therefore, I can attest that more that 95% of the code produced is from my self python and programming skills.
 
 Here is the link towards the chat gpt sessions I used while coding:
 - https://chatgpt.com/share/67094603-0dd0-8007-ac8d-205a7f541cff
