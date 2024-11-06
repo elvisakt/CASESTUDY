@@ -2,7 +2,7 @@
 
 ## CONTEXT
 The goal was to assess my Data Analyst Skills. In order to do so I was provided with a project to realize in python or R. I decided to go with Python. 
-I was given two csv files (sample.csv and metadata.csv). The main file, saple.csv contains logs of the Wooclap app. The goal was to reply to the following questions:
+I was given two csv files (sample.csv and metadata.csv). The main file, sample.csv contains logs of the Wooclap app. The goal was to reply to the following questions:
 
 - Add a session_id in order to identify sessions and to be able to conduct analysis based on sessions rather than on events.
 - Produce a graph enabling to visualize the number of answers emited for each session.
