@@ -14,7 +14,7 @@ I was given two csv files (sample.csv and metadata.csv). The main file, sample.c
 - **Functions.py** : Python file regrouping all the documented functions used to answer data cleaning, data manipulation, data visualization problems.
 - **PM_Graph** : Python file producing the Product Manager graph request.
 - **barplot.py** : Pyhton file producing a horizontal barplot show the distribution of answers per session
-- **Data_pipeline_Wooclap.png** : Visuals showing the Data Pipeline proposal.
+- **Data_pipeline.png** : Visuals showing the Data Pipeline proposal.
 
 ### OTHER FILES
 The other files are csv files, system python files and a requierement.txt file enabling to create safe python env before launching the project.
